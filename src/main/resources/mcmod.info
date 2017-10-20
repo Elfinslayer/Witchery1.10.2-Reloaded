@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "A test mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Elfinslayer"],
+  "credits": "Created by elfinslayer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
